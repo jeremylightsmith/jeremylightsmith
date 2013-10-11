@@ -1,0 +1,98 @@
+.brand img {
+  height: 40px;
+  background: color;
+}
+
+h1 span {
+  font-size: 16px;
+  font-weight: normal;
+  text-shadow: none;
+}
+
+.home hero-unit {
+  position: relative;
+}
+
+.home .jeremy-arms {
+  margin-top: 300px;
+  float: left;
+  width: 30%;
+  /*bottom: 0;*/
+  /*position:;*/
+}
+
+.home .hero-wheel {
+  position: relative;
+  float: left;
+  width: 70%;
+}
+
+.home .hero-wheel .quarter-wheel {
+  position: absolute;
+  /*background-color: purple;*/
+  width: 30%;
+  height: 28%;
+  /*opacity: 0.5;*/
+}
+.home .hero-wheel .top-left     { text-align: right; bottom: 52%; right: 44%;}
+.home .hero-wheel .top-right    { text-align: left;  bottom: 44%; left:  57%;}
+.home .hero-wheel .bottom-right { text-align: left;  top:    57%; left:  49%;}
+.home .hero-wheel .bottom-left  { text-align: right; top:    49%; right: 52%;}
+
+.home .hero-wheel h3 {
+  margin: 0;
+  font-size: 1.4em;
+}
+
+.home h1 span.case-study {
+  display: block;
+  margin-bottom: -10px;
+}
+
+.home h1 {
+  margin-top: 15px;
+}
+
+h1 {
+  text-shadow: 1px 1px 0 #101010;
+  font-family: dejarip,arial,"helvetica neue",sans-serif;
+}
+
+.home .odd-container {
+
+}
+
+.home .even-container {
+  background-color: #eee;
+}
+
+.contact-container {
+  background-color: #414141;
+  color: white;
+}
+
+.home .container {
+
+}
+
+.navbar .container {
+}
+
+footer {
+  background-color: #414141;
+  padding: 10px 0 10px;
+  margin-top: 20px;
+  color: #ddd;
+  text-align: center;
+}
+
+footer .social-links {
+}
+
+footer .links {
+  padding-top: 20px;
+}
+
+footer a {
+  color: #ddd;
+}
